@@ -5,5 +5,4 @@ This repository holds all node.js code I have ever written.
 
 | Name | Discription | Link |
 |----------|----------|----------|
-| Video Hosting | Host video on your local server | [View Code](./Video%20Hosting/)
- |
+| Video Hosting | Host video on your local server | [View Code](./Video%20Hosting/)|
